@@ -1,0 +1,12 @@
+{
+  "name": "shopping_cart",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Simple shopping cart",
+  "main": "index.js",
+  "author": "Gerard Soldevila",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
+}
